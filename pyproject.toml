@@ -8,6 +8,8 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.12"
 langchain = "^0.3.0"
+langchain-ollama = "^0.2.0"
+click = "^8.1.7"
 
 
 [build-system]
